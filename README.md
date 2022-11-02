@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaad000&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad000" /> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on **Automation using Python**
 
