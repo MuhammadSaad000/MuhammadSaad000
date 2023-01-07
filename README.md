@@ -3,15 +3,15 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Automation using Python**
+- 🔭 I’m currently working on **Software Quality Assurance**
 
-- 🌱 I’m currently learning **ASP.NET , Web Development and Machine Learning.**
+- 🌱 I’m currently learning **MERN , Web Development and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **.NET-6 and Web-Apps in JS.**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms.**
 
-- ✨ I am passionate about **Blockchain and Crypto currency.**
+- ✨ I am passionate about **System Design, AR/VR, Blockchain and Crypto currency.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
